@@ -19,7 +19,7 @@ Contains important projects related to AI
 # Project: Performance analysis between logistic regression and very large decision tree in big data environment
 - Class prediction
 - Logistic Regression & Very Large Decision Tree
-- Java
+- Language: Java
 
 # Project: Image Classification and Segmentation
 - Image class prediction and pixel-wise image segmentation
