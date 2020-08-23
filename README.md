@@ -28,7 +28,7 @@ Contains important projects related to AI
 - Technique: Auto-encoder, Classifier(VGG-16),  Convolutional neural network and convolutional transpose(FC-16)
 - Language: Python 
 - Library: Keras, TensorFlow, OpenCV
-- [Detailed Report](https://github.com/Shoilee/Academic_Reports/blob/master/CWU_Math335_Article_Summary.pdf)
+- [Detailed Report](https://github.com/Shoilee/Academic_Reports/blob/master/CWU_Math335_Article_Summary.pdf) and [presentation slides](https://github.com/Shoilee/Academic_Reports/blob/master/CV_presentation.pdf)
 
 ## Project: Dolphin Behaviour Analysis
 - Analysis social network of dolphin network(Newman's dataset) 
